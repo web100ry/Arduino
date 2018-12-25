@@ -4,7 +4,7 @@ RCSwitch mySwitch = RCSwitch();
 #include <EEPROM.h> 
 #include <RemoteReceiver.h>
 #include <RemoteTransmitter.h>
-//---------------------------------------LCD NOKIA3310
+//---------------------------------------LCD NOKIA3310 add test for git
 #define PIN_SCE   7
 #define PIN_RESET 6
 #define PIN_DC    5
